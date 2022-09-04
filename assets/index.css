@@ -113,7 +113,7 @@ html {
 #slider {
     padding-top: 50%;
     margin-top: 46px;
-    background: url('/assets/img/slider/chicago.jpg') top center / cover no-repeat;
+    background: url('./img/slider/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
